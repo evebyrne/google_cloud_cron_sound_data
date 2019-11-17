@@ -1,0 +1,4 @@
+cron:
+    - description: "regular job"
+      url: /data
+      schedule: every 8 hours
